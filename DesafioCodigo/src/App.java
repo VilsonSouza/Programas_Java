@@ -19,8 +19,8 @@ public static void main(String[] args){
         	for(int j=0;j<t;j++) {
         		if(t>=2 && t<=50){
         			N[j]=j;
-                   System.out.println("N[" +i+ "] = "+N[j]);
-                   i++;
+        			System.out.println("N[" +i+ "] = "+N[j]);
+        			i++;
         		}
         	}
         }
