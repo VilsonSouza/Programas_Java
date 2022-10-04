@@ -80,6 +80,7 @@ class ComparatorNomeGeneroTempoEpisodio implements Comparator<Series>{
 		}
 			
 }
+
 class ComparatorGenero implements Comparator<Series>{
 
 	@Override
