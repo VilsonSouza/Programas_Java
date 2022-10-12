@@ -1,6 +1,10 @@
 
 public class ClientePj extends Cliente{
 
+	@Override
+	public String toString() {
+		return "ClientePj [cnpj=" + cnpj + "]";
+	}
 	private String cnpj;
 	
 	public ClientePj(String nome, String endereco, String cnpj) {

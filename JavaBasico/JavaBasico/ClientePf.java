@@ -15,6 +15,11 @@ public class ClientePf extends Cliente{
 		this.cpf=cpf;
 		
 	}
+
+	@Override
+	public String toString() {
+		return "ClientePf [cpf=" + cpf + "]";
+	}
 	
 	
 }
