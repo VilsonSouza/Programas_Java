@@ -40,7 +40,9 @@ public class Carro {
         this.capacidadeTanque = capacidadeTanque;
     }
     // abaixo de getters and setters, legibilidade
-    private double ValorTotal(double valorGasolina){
+    public double ValorTotal(double valorGasolina){
+
         return capacidadeTanque*valorGasolina;
     }
+
 }
