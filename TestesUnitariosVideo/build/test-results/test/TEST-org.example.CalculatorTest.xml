@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.CalculatorTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-10-23T16:36:19" hostname="DESKTOP-RJJUAG0" time="0.046">
+  <properties/>
+  <testcase name="EstouraUmaExcecaoSeONumeroForMenorQueZero()" classname="org.example.CalculatorTest" time="0.037"/>
+  <testcase name="DeveRetornarASomaDeTodosOsValores()" classname="org.example.CalculatorTest" time="0.002"/>
+  <testcase name="DeveRetornarZeroQuandoNenhumValorForFornecido()" classname="org.example.CalculatorTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
